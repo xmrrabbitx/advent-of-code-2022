@@ -14,7 +14,7 @@ arr = []
 for x in r:
     l = x.rstrip("\n")
 
-    # 
+    
     m = int(len(l) / 2)
     f = int(len(l))
     
