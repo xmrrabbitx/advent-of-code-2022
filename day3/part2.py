@@ -58,26 +58,3 @@ for g in rmdup:
                 points.append(upperalpha.value)
 
 print(sum(points))
-
-# d = [[1,2,2],[3,4,1,6],[9,1,6,5,1]]
-
-"""
-for x in d:
-    x = set(x)
-    x = list(x)
-    ll = x + ll
- 
-
-
-    for loweralpha in lowerAlpha:
-        if (rmdup[0] == loweralpha.name):
-            arr.append(lower alpha.value)
-            
-    for upperalpha in upperAlpha:
-        if (rmdup[0] == upperalpha.name):
-            arr.append(upperalpha.value)
-"""
-
-
-
- 
